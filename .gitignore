@@ -1,0 +1,8 @@
+/dist
+/data
+/node_modules
+/out*
+/render
+/client/data
+/client/script.js*
+/cache

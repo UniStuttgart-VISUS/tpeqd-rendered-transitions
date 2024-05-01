@@ -1,0 +1,41 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node dist/run.mjs",
+    "build": "npm run build:client && npm run build:generator",
+    "build:client": "esbuild --color=false src/client/index.ts --bundle --minify --sourcemap --target=firefox120,chrome112 --format=esm --outfile=client/script.js",
+    "build:generator": "esbuild --color=false src/generator/index.ts --bundle --minify --sourcemap --platform=node --target=node20.10 --format=esm --loader:.node=copy --packages=external --outfile=dist/run.mjs",
+    "watch:client": "esbuild --color=false src/client/index.ts --bundle --minify --sourcemap --target=firefox120,chrome112 --format=esm --outfile=client/script.js --watch",
+    "watch:generator": "esbuild --color=false src/generator/index.ts --bundle --minify --sourcemap --platform=node --target=node20.10 --format=esm --loader:.node=copy --packages=external --outfile=dist/run.mjs --watch"
+  },
+  "contributors": [
+    {
+      "name": "Max Franke",
+      "email": "Max.Franke@vis.uni-stuttgart.de"
+    }
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.11.10",
+    "esbuild": "0.20.2",
+    "tslib": "^2.4.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@turf/bbox-clip": "^6.5.0",
+    "@turf/intersect": "^6.5.0",
+    "@turf/rewind": "^6.5.0",
+    "@types/d3": "^7.4.3",
+    "@xmldom/xmldom": "^0.8.10",
+    "@zip.js/zip.js": "^2.7.34",
+    "canvas": "^2.11.2",
+    "d3": "^7.8.5",
+    "d3-geo-polygon": "^1.12.1",
+    "d3-geo-projection": "^4.0.0",
+    "jszip": "^3.10.1",
+    "osmtogeojson": "^3.0.0-beta.5",
+    "overpass-ts": "^4.3.8"
+  }
+}

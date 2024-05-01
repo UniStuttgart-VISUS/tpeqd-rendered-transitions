@@ -1,0 +1,413 @@
+{
+  "vertices": {
+    "de-s": {
+      "id": "de-s",
+      "label": "Stuttgart, Germany",
+      "coords": [
+        9.1800132,
+        48.7784485
+      ],
+      "zoom": 12,
+      "osm_id": 2793104,
+      "osm_name": "Stuttgart, Baden-W\u00fcrttemberg, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-lb": {
+      "id": "de-lb",
+      "label": "Ludwigsburg, Germany",
+      "coords": [
+        9.1895147,
+        48.8953937
+      ],
+      "zoom": 12,
+      "osm_id": 405292,
+      "osm_name": "Ludwigsburg, Landkreis Ludwigsburg, Baden-W\u00fcrttemberg, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-es": {
+      "id": "de-es",
+      "label": "Esslingen, Germany",
+      "coords": [
+        9.3071685,
+        48.7427584
+      ],
+      "zoom": 12,
+      "osm_id": 2792882,
+      "osm_name": "Esslingen am Neckar, Landkreis Esslingen, Baden-W\u00fcrttemberg, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-tu": {
+      "id": "de-tu",
+      "label": "T\u00fcbingen, Germany",
+      "coords": [
+        9.0535531,
+        48.5236164
+      ],
+      "zoom": 12,
+      "osm_id": 2778914,
+      "osm_name": "T\u00fcbingen, Landkreis T\u00fcbingen, Baden-W\u00fcrttemberg, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-esb": {
+      "id": "de-esb",
+      "label": "Berkheim, Esslingen, Germany",
+      "coords": [
+        9.3188087,
+        48.7187327
+      ],
+      "zoom": 12,
+      "osm_id": 5732220,
+      "osm_name": "Berkheim, Esslingen am Neckar, Landkreis Esslingen, Baden-W\u00fcrttemberg, 73734, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-hh": {
+      "id": "de-hh",
+      "label": "Hamburg, Germany",
+      "coords": [
+        10.000654,
+        53.550341
+      ],
+      "zoom": 12,
+      "osm_id": 62782,
+      "osm_name": "Hamburg, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-lue": {
+      "id": "de-lue",
+      "label": "L\u00fcbeck, Germany",
+      "coords": [
+        10.684738,
+        53.866444
+      ],
+      "zoom": 12,
+      "osm_id": 27027,
+      "osm_name": "L\u00fcbeck, Schleswig-Holstein, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-hb": {
+      "id": "de-hb",
+      "label": "Bremen, Germany",
+      "coords": [
+        8.8071646,
+        53.0758196
+      ],
+      "zoom": 12,
+      "osm_id": 62559,
+      "osm_name": "Bremen, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-b": {
+      "id": "de-b",
+      "label": "Berlin, Germany",
+      "coords": [
+        13.4025498,
+        52.5015217
+      ],
+      "zoom": 12,
+      "osm_id": 62422,
+      "osm_name": "Berlin, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "de-po": {
+      "id": "de-po",
+      "label": "Potsdam, Germany",
+      "coords": [
+        13.0591397,
+        52.4009309
+      ],
+      "zoom": 12,
+      "osm_id": 62369,
+      "osm_name": "Potsdam, Brandenburg, Deutschland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "uk-l": {
+      "id": "uk-l",
+      "label": "London, United Kingdom",
+      "coords": [
+        -0.1276474,
+        51.5073219
+      ],
+      "zoom": 12,
+      "osm_id": 65606,
+      "osm_name": "London, Greater London, England, United Kingdom",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "uk-rd": {
+      "id": "uk-rd",
+      "label": "Reading, United Kingdom",
+      "coords": [
+        -0.9696512,
+        51.456659
+      ],
+      "zoom": 12,
+      "osm_id": 115074,
+      "osm_name": "Reading, South East, England, United Kingdom",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "uk-ox": {
+      "id": "uk-ox",
+      "label": "Oxford, United Kingdom",
+      "coords": [
+        -1.2578499,
+        51.7520131
+      ],
+      "zoom": 12,
+      "osm_id": 394037,
+      "osm_name": "Oxford, Oxfordshire, South East, England, United Kingdom",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "uk-do": {
+      "id": "uk-do",
+      "label": "Dover, United Kingdom",
+      "coords": [
+        1.3134228,
+        51.1251275
+      ],
+      "zoom": 12,
+      "osm_id": 1481934,
+      "osm_name": "Dover, Kent, South East, England, United Kingdom",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "nl-am": {
+      "id": "nl-am",
+      "label": "Amsterdam, Netherlands",
+      "coords": [
+        4.8936041,
+        52.3727598
+      ],
+      "zoom": 12,
+      "osm_id": 271110,
+      "osm_name": "Amsterdam, Noord-Holland, Nederland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "nl-ro": {
+      "id": "nl-ro",
+      "label": "Rotterdam, Netherlands",
+      "coords": [
+        4.4631727,
+        51.9228958
+      ],
+      "zoom": 12,
+      "osm_id": 1411101,
+      "osm_name": "Rotterdam, Zuid-Holland, Nederland",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "us-nyc": {
+      "id": "us-nyc",
+      "label": "New York City, United States",
+      "coords": [
+        -74.0060152,
+        40.7127281
+      ],
+      "zoom": 12,
+      "osm_id": 175905,
+      "osm_name": "New York, United States",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "us-phi": {
+      "id": "us-phi",
+      "label": "Philadelphia, United States",
+      "coords": [
+        -75.1635262,
+        39.9527237
+      ],
+      "zoom": 12,
+      "osm_id": 188022,
+      "osm_name": "Philadelphia, Philadelphia County, Pennsylvania, United States",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "us-bos": {
+      "id": "us-bos",
+      "label": "Boston, United States",
+      "coords": [
+        -71.0582912,
+        42.3602534
+      ],
+      "zoom": 12,
+      "osm_id": 2315704,
+      "osm_name": "Boston, Suffolk County, Massachusetts, United States",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "us-chi": {
+      "id": "us-chi",
+      "label": "Chicago, United States",
+      "coords": [
+        -87.6244212,
+        41.8755616
+      ],
+      "zoom": 12,
+      "osm_id": 122604,
+      "osm_name": "Chicago, Cook County, Illinois, United States",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "us-dal": {
+      "id": "us-dal",
+      "label": "Dallas, United States",
+      "coords": [
+        -96.7968559,
+        32.7762719
+      ],
+      "zoom": 12,
+      "osm_id": 6571629,
+      "osm_name": "Dallas, Dallas County, Texas, United States",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "us-la": {
+      "id": "us-la",
+      "label": "Los Angeles, United States",
+      "coords": [
+        -118.242766,
+        34.0536909
+      ],
+      "zoom": 12,
+      "osm_id": 207359,
+      "osm_name": "Los Angeles, Los Angeles County, California, United States",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "mx-cdm": {
+      "id": "mx-cdm",
+      "label": "Ciudad de M\u00e9xico, M\u00e9xico",
+      "coords": [
+        -99.1331785,
+        19.4326296
+      ],
+      "zoom": 12,
+      "osm_id": 1376330,
+      "osm_name": "Ciudad de M\u00e9xico, M\u00e9xico",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "jp-to": {
+      "id": "jp-to",
+      "label": "T\u014dky\u014d, Japan",
+      "coords": [
+        139.7594549,
+        35.6828387
+      ],
+      "zoom": 12,
+      "osm_id": 1543125,
+      "osm_name": "\u6771\u4eac\u90fd, \u65e5\u672c",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "jp-chi": {
+      "id": "jp-chi",
+      "label": "Chiba, Japan",
+      "coords": [
+        140.118126,
+        35.609985
+      ],
+      "zoom": 12,
+      "osm_id": 2679956,
+      "osm_name": "\u5343\u8449\u5e02, \u5343\u8449\u770c, \u65e5\u672c",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "jp-yo": {
+      "id": "jp-yo",
+      "label": "Yokohama, Japan",
+      "coords": [
+        139.636768,
+        35.444991
+      ],
+      "zoom": 12,
+      "osm_id": 2689482,
+      "osm_name": "\u6a2a\u6d5c\u5e02, \u795e\u5948\u5ddd\u770c, 231-0017, \u65e5\u672c",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "jp-os": {
+      "id": "jp-os",
+      "label": "\u014csaka, Japan",
+      "coords": [
+        135.490357,
+        34.6198813
+      ],
+      "zoom": 12,
+      "osm_id": 341906,
+      "osm_name": "\u5927\u962a\u5e9c, \u65e5\u672c",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "jp-na": {
+      "id": "jp-na",
+      "label": "Nara, Japan",
+      "coords": [
+        135.8816819,
+        34.2963089
+      ],
+      "zoom": 12,
+      "osm_id": 358631,
+      "osm_name": "\u5948\u826f\u770c, \u65e5\u672c",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "nb-wi": {
+      "id": "nb-wi",
+      "label": "Windhoek, Namibia",
+      "coords": [
+        17.0790688,
+        -22.5743922
+      ],
+      "zoom": 12,
+      "osm_id": 8650326,
+      "osm_name": "Windhoek, Khomas Region, Namibia",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    },
+    "nb-ok": {
+      "id": "nb-ok",
+      "label": "Okahandja, Namibia",
+      "coords": [
+        16.9128172,
+        -21.979231
+      ],
+      "zoom": 12,
+      "osm_id": 6160499,
+      "osm_name": "Okahandja, Otjozondjupa Region, Namibia",
+      "osm_license": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright"
+    }
+  },
+  "edges": [
+    [ "de-b", "de-es" ],
+    [ "nb-ok", "nb-wi" ],
+    [ "de-s", "de-tu" ],
+    [ "de-b", "de-hh" ],
+    [ "jp-to", "us-nyc" ],
+    [ "de-hh", "de-s" ],
+    [ "nl-am", "nl-ro" ],
+    [ "de-hh", "nl-ro" ],
+    [ "us-dal", "us-nyc" ],
+    [ "mx-cdm", "us-la" ],
+    [ "de-es", "de-s" ],
+    [ "de-es", "de-tu" ],
+    [ "de-es", "de-lb" ],
+    [ "nb-wi", "us-dal" ],
+    [ "de-lb", "de-s" ],
+    [ "de-es", "de-esb" ],
+    [ "mx-cdm", "us-dal" ],
+    [ "de-hh", "de-lue" ],
+    [ "uk-l", "uk-rd" ],
+    [ "nl-ro", "uk-do" ],
+    [ "us-nyc", "us-phi" ],
+    [ "de-b", "nl-am" ],
+    [ "de-hb", "de-hh" ],
+    [ "uk-ox", "uk-rd" ],
+    [ "us-chi", "us-la" ],
+    [ "de-b", "jp-to" ],
+    [ "jp-chi", "jp-yo" ],
+    [ "jp-to", "jp-yo" ],
+    [ "de-b", "de-po" ],
+    [ "nl-am", "uk-l" ],
+    [ "jp-na", "jp-os" ],
+    [ "de-hh", "uk-l" ],
+    [ "de-s", "uk-l" ],
+    [ "jp-to", "uk-l" ],
+    [ "de-b", "us-nyc" ],
+    [ "us-chi", "us-nyc" ],
+    [ "de-hb", "nl-am" ],
+    [ "de-b", "de-s" ],
+    [ "jp-os", "jp-to" ],
+    [ "us-bos", "us-nyc" ],
+    [ "uk-do", "uk-l" ],
+    [ "uk-l", "us-nyc" ],
+    [ "jp-to", "us-la" ],
+    [ "jp-chi", "jp-to" ],
+    [ "nb-wi", "uk-l" ],
+    [ "us-dal", "us-la" ]
+  ],
+  "$comment": "Graph from \"graph.geo[238].json\"."
+}

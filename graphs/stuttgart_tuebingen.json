@@ -1,0 +1,20 @@
+{
+  "$comment": "A short, single hop.",
+  "vertices": {
+    "s": {
+      "id": "s",
+      "label": "Stuttgart, Germany",
+      "coords": [ 9.17927, 48.77942 ],
+      "zoom": 14
+    },
+    "t": {
+      "id": "t",
+      "label": "Tübingen, Germany",
+      "coords": [ 9.05450, 48.51648 ],
+      "zoom": 16
+    }
+  },
+  "edges": [
+    [ "s", "t" ]
+  ]
+}

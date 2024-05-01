@@ -1,0 +1,37 @@
+{
+  "$comment": "A 4-clique with long edges that cover some special cases: horizontal, vertical, diagonal edges, edges across antimeridian.",
+  "vertices": {
+    "s": {
+      "id": "s",
+      "label": "Stuttgart, Germany",
+      "coords": [ 9.1069, 48.74477 ],
+      "zoom": 16
+    },
+    "t": {
+      "id": "t",
+      "label": "Tōkyō, Japan",
+      "coords": [ 139.76778, 35.68041 ],
+      "zoom": 18
+    },
+    "u": {
+      "id": "u",
+      "label": "Ushuaia, Argentina",
+      "coords": [ -68.30371, -54.80747 ],
+      "zoom": 17
+    },
+    "v": {
+      "id": "v",
+      "label": "Vancouver, Canada",
+      "coords": [ -123.11745, 49.28964 ],
+      "zoom": 17
+    }
+  },
+  "edges": [
+    [ "s", "t" ],
+    [ "s", "u" ],
+    [ "s", "v" ],
+    [ "t", "u" ],
+    [ "t", "v" ],
+    [ "u", "v" ]
+  ]
+}
