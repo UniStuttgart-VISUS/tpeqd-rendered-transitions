@@ -1,5 +1,6 @@
 Source code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11097470.svg)](https://doi.org/10.5281/zenodo.11097470)  
-Compiled demo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11236514.svg)](https://doi.org/10.5281/zenodo.11236514)
+Compiled demo: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11236514.svg)](https://doi.org/10.5281/zenodo.11236514)  
+Docker image for animation pre-generation: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11237131.svg)](https://doi.org/10.5281/zenodo.11237131)
 
 Generate animated zoom-and-pan transitions between geographical locations in two-point equidistant projection.
 Transitions are pre-rendered and stored as videos.
